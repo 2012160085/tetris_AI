@@ -18,5 +18,4 @@ Performance
 ---
 [![play video](https://share.gifyoutube.com/gZzQVj.gif)](https://www.youtube.com/watch?v=QTJNax-B11I)
 
-* 79 line clears in minute (12 combo in average)
-* achieved highest rank in *Tetirs Friends*
+* 79 line clears in minute, 12 combo in average (surpasses average human)
