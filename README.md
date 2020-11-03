@@ -1,6 +1,7 @@
 # tetris_AI
 4-wide combo tetris bot.  <br/>
 
+*spaghetti code. Needs lots of refactoring*
 
 
 How it works
