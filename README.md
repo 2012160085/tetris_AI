@@ -1,7 +1,7 @@
 # tetris_AI
 4-wide combo tetris bot.  <br/>
 
-*spaghetti code. Needs lots of refactoring*
+
 
 
 How it works
@@ -20,3 +20,6 @@ Performance
 [![play video](https://share.gifyoutube.com/gZzQVj.gif)](https://www.youtube.com/watch?v=QTJNax-B11I)
 
 * 79 line clears in minute, 12 combo in average (surpasses average human)
+
+
+*Needs lots of refactoring*
