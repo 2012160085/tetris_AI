@@ -7,7 +7,7 @@
 How it works
 ---
 It works differently depending on the state which determined by state determining model.<br/>
-In build-state : an FNN model piles blockes up.
+In build-state : an FNN model piles blockes up.<br/>
 In combo-state : rule based system breaks blockes down. <br/>
 
 
